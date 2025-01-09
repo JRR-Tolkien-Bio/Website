@@ -21,6 +21,7 @@ body, #hobbit-bg, #lotr-bg, #silm-bg{
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
+    background-position: center;
 }
 
 body{
